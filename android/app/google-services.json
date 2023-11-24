@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "979195398227",
+    "project_id": "phonenumbauth-f770d",
+    "storage_bucket": "phonenumbauth-f770d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979195398227:android:bcc17496333659a86e5ea6",
+        "android_client_info": {
+          "package_name": "com.example.testfirebasapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz72avyCwms2d9GVYYdkVVy-Y6ig_LrV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
